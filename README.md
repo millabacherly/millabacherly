@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá! 👋
+
+###  Meu nome é Camilla Abacherly e estou iniciando minha jornada como desenvolvedora! :rocket:
+
+- 😄 Pronome: Ela/Dela/She/Her
+- ⚡ Curiosidades: Viciada em séries e filmes da Marvel
+
+
+
 
 <!--
 **millabacherly/millabacherly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
