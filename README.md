@@ -12,14 +12,18 @@
   
 <div align="center">
   <a href="https://github.com/millabacherly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millabacherly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millabacherly&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=millabacherly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millabacherly&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div> 
  
+ <h3 align="left">Entre em contato comigo:</h3>
+  <p align="left">
+   <a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="millabacherly" height="40" width="40" /></a>
+</p>
  
-</div>
+
+
 
 <!--
 **millabacherly/millabacherly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
