@@ -1,5 +1,5 @@
 <h3> 
-  Olá! 👋  Meu nome é Camilla Abacherly e estou iniciando minha jornada como desenvolvedora! :rocket: </p> </h3> 
+  Olá! 👋 Meu nome é Camilla Abacherly e estou iniciando minha jornada como desenvolvedora! :rocket: </p> </h3> 
 
 - 😄 Pronomes: Ela/Dela/She/Her
 - 👧 Mãe da Laura 
@@ -23,8 +23,8 @@
   <br>
 <div align="center">
   <a href="https://github.com/millabacherly">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=millabacherly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millabacherly&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=millabacherly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millabacherly&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ##
