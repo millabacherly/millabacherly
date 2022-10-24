@@ -1,6 +1,5 @@
 <h3> 
-  Olá! 👋 <br> 
-  Meu nome é Camilla Abacherly e estou iniciando minha jornada como desenvolvedora! :rocket: </p> </h3> 
+  Olá! 👋  Meu nome é Camilla Abacherly e estou iniciando minha jornada como desenvolvedora! :rocket: </p> </h3> 
 
 - 😄 Pronomes: Ela/Dela/She/Her
 - 👧 Mãe da Laura 
