@@ -4,7 +4,7 @@
 - 😄 Pronomes: Ela/Dela/She/Her
 - 👧 Mãe da Laura 
 - 🖥️ Ex-aluna do curso Eu Progr{amo} da [Programaria](https://www.programaria.org/ "Programaria")
-- 💻 Aluna do curso de Desenvolvimento de Software da [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
+- 💻 Ex-Aluna do curso de Desenvolvimento de Software da [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
 - ⚡ Curiosidades: Viciada em séries e filmes da Marvel
 - ✅ Principais habilidades: Trabalho em equipe, comunicação, responsabilidades e organização.
 - 🔍 Em busca da minha 1º oportunidade na área de tecnologia.
