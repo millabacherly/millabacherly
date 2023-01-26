@@ -12,7 +12,8 @@
 <div align="center">
 
 🌱 Here's a few technologies I've been studying:
-<style="display: inline_block">
+  
+<div style="display: inline_block">
   <img align="center" alt="millabacherly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="millabacherly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
