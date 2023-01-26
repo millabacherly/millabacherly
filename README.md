@@ -10,8 +10,8 @@
   
 ##
 
-🌱 Essas são algumas das tecnologias que tenho estudado:
-<div style="display: inline_block">
+🌱 Here's a few technologies I've been studying:
+<div align="center" style="display: inline_block">
   <img align="center" alt="millabacherly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="millabacherly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +27,7 @@
 </div>
   
 ##
- <h3 align="left">📫 Entre em contato comigo:</h3>
+ <h3 align="left">📫 Get in touch with me:</h3>
   <p align="left">
    <a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="millabacherly" height="40" width="40" /></a>
    <a href = "mailto:millabacherly@gmail.com"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="millabacherly@gmail.com" height="40" width="50" /></a>
