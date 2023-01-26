@@ -1,12 +1,12 @@
 <h3> Hello! 👋 My name is Camilla Abarchely and I'm starting a new jorney as a Sofware Developer! :rocket: </p> </h3> 
 
-😄 Pronouns: She/Her
-👧 Laura's Mom
-🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
-💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
-⚡ Addicted to Marvel's movies and tv shows
-✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
-🔍 Looking for my first opportunity as a Back-End or Full-Stack Sofware Developer
+- 😄 Pronouns: She/Her
+- 👧 Laura's Mom
+- 🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
+- 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
+- ⚡ Addicted to Marvel's movies and tv shows
+- ✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
+- 🔍 Looking for my first opportunity as a Back-End or Full-Stack Sofware Developer
   
 ##
 <div align="center">
@@ -30,13 +30,13 @@
 </div>
   
 ##
-  <div align="center">
- <h3 align="left">📫 Get in touch with me:</h3>
-  <p align="left">
+<div align="center">
+ <h3>📫 Get in touch with me:</h3>
+  <p>
    <a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="millabacherly" height="40" width="40" /></a>
    <a href = "mailto:millabacherly@gmail.com"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="millabacherly@gmail.com" height="40" width="50" /></a>
 </p>
-  </div>
+</div>
      
      
  
