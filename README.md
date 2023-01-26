@@ -1,23 +1,25 @@
 <h3> Hello! 👋 My name is Camilla Abarchely and I'm starting a new jorney as a Sofware Developer! :rocket: </p> </h3> 
 
-- 😄 Pronouns: She/Her
-- 👧 Laura's Mom
-- 🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
-- 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
-- ⚡ Addicted to Marvel's movies and tv shows
-- ✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
-- 🔍 Looking for my first opportunity as a Back-End or Full-Stack Sofware Developer
+😄 Pronouns: She/Her
+👧 Laura's Mom
+🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
+💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
+⚡ Addicted to Marvel's movies and tv shows
+✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
+🔍 Looking for my first opportunity as a Back-End or Full-Stack Sofware Developer
   
 ##
+<div align="center">
 
 🌱 Here's a few technologies I've been studying:
-<div align="center" style="display: inline_block">
+<style="display: inline_block">
   <img align="center" alt="millabacherly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="millabacherly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="millabacherly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="millabacherly-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="millabacherly-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
 </div>
   <br>
 <div align="center">
@@ -27,11 +29,13 @@
 </div>
   
 ##
+  <div align="center">
  <h3 align="left">📫 Get in touch with me:</h3>
   <p align="left">
    <a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="millabacherly" height="40" width="40" /></a>
    <a href = "mailto:millabacherly@gmail.com"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="millabacherly@gmail.com" height="40" width="50" /></a>
 </p>
+  </div>
      
      
  
