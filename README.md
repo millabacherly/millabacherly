@@ -1,6 +1,6 @@
 <h3> Hello! 👋 My name is Camilla Abacherly and I'm starting a new jorney as a Sofware Developer! :rocket: </p> </h3> 
 
-💁 Here's a few more things about me:
+💁‍♀️ Here's a few more things about me:
 
 - 😄 Pronouns: She/Her
 - 👧 Laura's Mom
