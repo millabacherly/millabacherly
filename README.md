@@ -1,14 +1,13 @@
-<h3> 
-  Olá! 👋 Meu nome é Camilla Abacherly e estou iniciando minha jornada como desenvolvedora! :rocket: </p> </h3> 
+<h3> Hello! 👋 My name is Camilla Abarchely and I'm starting a new jorney as a Sofware Developer! :rocket: </p> </h3> 
 
-- 😄 Pronomes: Ela/Dela/She/Her
-- 👧 Mãe da Laura 
-- 🖥️ Ex-aluna do curso Eu Progr{amo} da [Programaria](https://www.programaria.org/ "Programaria")
-- 💻 Ex-Aluna do curso de Desenvolvimento de Software da [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
-- ⚡ Curiosidades: Viciada em séries e filmes da Marvel
-- ✅ Principais habilidades: Trabalho em equipe, comunicação, responsabilidades e organização.
-- 🔍 Em busca da minha 1º oportunidade na área de tecnologia.
-
+- 😄 Pronouns: She/Her
+- 👧 Laura's Mom
+- 🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
+- 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
+- ⚡ Addicted to Marvel's movies and tv shows
+- ✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
+- 🔍 Looking for my first opportunity as a Back-End or Full-Stack Sofware Developer
+  
 ##
 
 🌱 Essas são algumas das tecnologias que tenho estudado:
@@ -52,6 +51,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  Olá! 👋 Meu nome é Camilla Abacherly e estou iniciando minha jornada como desenvolvedora! :rocket: </p> </h3> 
+
+- 😄 Pronomes: Ela/Dela/She/Her
+- 👧 Mãe da Laura 
+- 🖥️ Ex-aluna do curso Eu Progr{amo} da [Programaria](https://www.programaria.org/ "Programaria")
+- 💻 Ex-Aluna do curso de Desenvolvimento de Software da [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
+- ⚡ Curiosidades: Viciada em séries e filmes da Marvel
+- ✅ Principais habilidades: Trabalho em equipe, comunicação, responsabilidades e organização.
+- 🔍 Em busca da minha 1º oportunidade na área de tecnologia.
+
 -->
      
 
