@@ -34,8 +34,11 @@
 ##
 <div align="center">
   <p> 📫 Get in touch with me: </p>
-  <a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="millabacherly" height="40" width="40" /></a> 
-   <a href = "mailto:millabacherly@gmail.com"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="millabacherly@gmail.com" height="40" width="50" /></a> 
+  
+<a href="mailto:millabacherly@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" /></a> 
+<a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="_blank">
+  <img alt="Linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
 
 </div>
      
