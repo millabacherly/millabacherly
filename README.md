@@ -1,4 +1,4 @@
-<h3> Hello! 👋 My name is Camilla Abacherly and I'm starting a new jorney as a Sofware Developer! :rocket: </p> </h3> 
+<h3> Hello! 👋 My name is Camilla Abacherly and I'm starting a new jorney as a Sofware Developer! :rocket: </h3> 
 
 💁‍♀️ Here's a few more things about me:
 
@@ -17,11 +17,11 @@
   
 <div style="display: inline_block">
   <img align="center" alt="millabacherly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="millabacherly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="millabacherly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="millabacherly-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="millabacherly-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 </div>
   <br>
@@ -33,11 +33,10 @@
   
 ##
 <div align="center">
- <h3>📫 Get in touch with me:</h3>
-  <p>
-   <a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="millabacherly" height="40" width="40" /></a>
-   <a href = "mailto:millabacherly@gmail.com"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="millabacherly@gmail.com" height="40" width="50" /></a>
-</p>
+  <p> 📫 Get in touch with me: </p>
+  <a href="https://www.linkedin.com/in/camilla-abacherly-barboza/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="millabacherly" height="40" width="40" /></a> 
+   <a href = "mailto:millabacherly@gmail.com"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="millabacherly@gmail.com" height="40" width="50" /></a> 
+
 </div>
      
      
