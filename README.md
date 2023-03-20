@@ -22,6 +22,8 @@
   <img align="center" alt="millabacherly-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="millabacherly-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="millabacherly-NestJS" height="30"  src="https://user-images.githubusercontent.com/92707340/226425265-39d6d3e6-b596-4286-9d33-a36064292667.png">
+
 </div>
 </div>
   <br>
