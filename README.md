@@ -6,9 +6,9 @@
 - 👧 Laura's Mom
 - 🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
 - 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
+- 👩‍💻 Back End Developer at [Anjun Brasil](https://github.com/anjun-brasil "Anjun Brasil")
 - ⚡ Addicted to Marvel's movies and tv shows
 - ✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
-- 🔍 Looking for my first opportunity as a Back-End or Full-Stack Sofware Developer
   
 ##
 <div align="center">
