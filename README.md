@@ -4,10 +4,10 @@
 
 - 😄 Pronouns: She/Her
 - 👧 Laura's Mom
+- 👩‍💻 Back End Developer at [Anjun Brasil](https://github.com/anjun-brasil "Anjun Brasil")
 - 🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
 - 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
-- 👩‍💻 Back End Developer at [Anjun Brasil](https://github.com/anjun-brasil "Anjun Brasil")
-- ⚡ Addicted to Marvel's movies and tv shows
+- ⚡ Addicted to Marvel's movies, music and tv shows
 - ✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
   
 ##
