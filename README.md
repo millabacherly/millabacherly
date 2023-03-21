@@ -9,12 +9,12 @@
 - 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
 - ⚡ Addicted to Marvel's movies, music and tv shows
 - ✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
-- 👩🏻‍🚀 [GitHub](https://github.com/camilla-barboza "Github Profissional")
+- 👩🏻‍🚀 My professional [GitHub](https://github.com/camilla-barboza "Github Profissional")
   
 ##
 <div align="center">
 
-🌱 Here's a few technologies I've been studying:
+🌱 Here's a few technologies I've been working:
   
 <div style="display: inline_block">
   <img align="center" alt="millabacherly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +24,10 @@
   <img align="center" alt="millabacherly-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="millabacherly-NestJS" height="30"  src="https://user-images.githubusercontent.com/92707340/226425265-39d6d3e6-b596-4286-9d33-a36064292667.png">
+  <img align="center" alt="millabacherly-Prisma" height="30" src="https://user-images.githubusercontent.com/92707340/226737844-6242d023-4e19-47e3-aea7-e2643cc8384c.png">
+  <img align="center" alt="millabacherly-MySQL" height="30" src="https://user-images.githubusercontent.com/92707340/226738127-1a3654f5-b804-41cf-9a02-085d67531431.png">
+
+
 
 </div>
 </div>
