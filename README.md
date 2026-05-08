@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: She/Her
 - 👧 Laura's Mom
-- 👩‍💻 Back End Developer at [Anjun Express](https://anjunexpress.com.br/ "Anjun Express")
+- 👩‍💻 Data Science student at [FIAP](https://fiap.com.br/ "FIAP")
 - 🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
 - 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
 - ⚡ Addicted to Marvel's movies, music and tv shows
@@ -16,7 +16,7 @@
 
 🌱 Here's a few technologies I've been working:
   
-<div style="display: inline_block">
+<div style="display: inline_block">  
   <img align="center" alt="millabacherly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="millabacherly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="millabacherly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
