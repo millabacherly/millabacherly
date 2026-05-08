@@ -1,42 +1,43 @@
-<h3> Hello! 👋 My name is Camilla Abacherly and I'm starting a new jorney as a Sofware Developer! :rocket: </h3> 
+<h3> Hello! 👋 My name is Camilla Abacherly and I'm starting my journey in Data Science with experience as a Software Developer! 🚀 </h3>
 
 💁‍♀️ Here's a few more things about me:
 
 - 😄 Pronouns: She/Her
+- 👩‍🎓 Data Science student at [FIAP](https://fiap.com.br/ "FIAP")
+- 👩‍💻 Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
+- 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy")
 - 👧 Laura's Mom
-- 👩‍💻 Data Science student at [FIAP](https://fiap.com.br/ "FIAP")
-- 🖥️ Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
-- 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy") 
 - ⚡ Addicted to Marvel's movies, music and tv shows
-- ✅ I am a responsible and organized person who can work well in a team, and knows how to communicate
-- 👩🏻‍🚀 My professional [GitHub](https://github.com/camilla-barboza "Github Profissional")
+- ✨ I am a responsible and organized person who can work well in a team, and knows how to communicate
+- 💻 My professional [GitHub](https://github.com/camilla-barboza "Github Profissional")
   
 ##
-<div align="center">
 
-🌱 Here's a few technologies I've been working:
-  
-<div style="display: inline_block">  
-  <img align="center" alt="millabacherly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="millabacherly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="millabacherly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="millabacherly-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="millabacherly-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="millabacherly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="millabacherly-NestJS" height="30"  src="https://user-images.githubusercontent.com/92707340/226425265-39d6d3e6-b596-4286-9d33-a36064292667.png">
-  <img align="center" alt="millabacherly-Prisma" height="30" src="https://user-images.githubusercontent.com/92707340/226737844-6242d023-4e19-47e3-aea7-e2643cc8384c.png">
-  <img align="center" alt="millabacherly-MySQL" height="30" src="https://user-images.githubusercontent.com/92707340/226738127-1a3654f5-b804-41cf-9a02-085d67531431.png">
+<p align="left">🌱 Here's a few technologies I've been working:</p>
 
+<table align="left">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" height="30" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nest" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="psql" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma" height="30" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="py" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="30" width="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" height="30" width="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="bigdata" height="30" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="30" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="30" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" height="30" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="insomnia" height="30" width="40" /></td>
+  </tr>
+</table>
 
-
-</div>
-</div>
   <br>
-<div align="center">
-  <a href="https://github.com/millabacherly">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=millabacherly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millabacherly&layout=compact&langs_count=7&theme=radical"/>
-</div>
   
 ##
 <div align="center">
