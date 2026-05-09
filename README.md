@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/Her
 - 👩‍🎓 Data Science student at [FIAP](https://fiap.com.br/ "FIAP")
 - 👩‍💻 Former Student @ Eu Progr{amo} from [Programaria](https://www.programaria.org/ "Programaria")
-- 💻 Former Student @ the Full Stack Sofware Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy")
+- 💻 Former Student @ the Full Stack Software Developer course from [Cubos Academy](https://cubos.academy/ "Cubos Academy")
 - 👧 Laura's Mom
 - ⚡ Addicted to Marvel's movies, music and tv shows
 - ✨ I am a responsible and organized person who can work well in a team, and knows how to communicate
